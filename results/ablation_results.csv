@@ -1,0 +1,8 @@
+name,n_params,test_mse,test_top30,best_epoch
+sat+env+audio+move,11627774,0.004906,0.4856,48
+env+audio,240286,0.005176,0.4294,44
+sat+env,11575390,0.005304,0.487,48
+env+move,209854,0.005532,0.4202,50
+satellite_only,11546142,0.00557,0.4627,50
+env_only,198878,0.005585,0.4196,50
+audio_only,211038,0.005682,0.3755,47

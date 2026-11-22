@@ -1,0 +1,296 @@
+{
+  "gcms": [
+    "ACCESS-CM2",
+    "IPSL-CM6A-LR",
+    "MIROC6",
+    "UKESM1-0-LL"
+  ],
+  "model": "v2_full",
+  "n_species": 755,
+  "n_test": 218,
+  "has_coordinates": true,
+  "per_gcm": [
+    {
+      "label": "ACCESS-CM2 SSP2-4.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 755.0,
+      "richness_delta": 0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.07753,
+      "n_gaining": 79,
+      "n_losing": 133,
+      "n_stable": 543,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Dendropicos fuscescens",
+        "Ardea alba",
+        "Leptoptilos crumenifer",
+        "Indicator indicator"
+      ],
+      "top_losers": [
+        "Asio capensis",
+        "Ploceus capensis",
+        "Cursorius temminckii",
+        "Apalis ruddi",
+        "Philetairus socius"
+      ],
+      "gcm": "ACCESS-CM2",
+      "ssp_key": "ssp245_2050",
+      "source": "single_gcm"
+    },
+    {
+      "label": "ACCESS-CM2 SSP5-8.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 755.0,
+      "richness_delta": -0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.07661,
+      "n_gaining": 94,
+      "n_losing": 184,
+      "n_stable": 477,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Dendropicos fuscescens",
+        "Ardea alba",
+        "Leptoptilos crumenifer",
+        "Indicator indicator"
+      ],
+      "top_losers": [
+        "Ploceus capensis",
+        "Asio capensis",
+        "Cursorius temminckii",
+        "Apalis ruddi",
+        "Motacilla flava"
+      ],
+      "gcm": "ACCESS-CM2",
+      "ssp_key": "ssp585_2050",
+      "source": "single_gcm"
+    },
+    {
+      "label": "IPSL-CM6A-LR SSP2-4.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 755.0,
+      "richness_delta": 0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.07597,
+      "n_gaining": 50,
+      "n_losing": 178,
+      "n_stable": 527,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Dendropicos fuscescens",
+        "Tauraco corythaix",
+        "Egretta vinaceigula",
+        "Anthus vaalensis"
+      ],
+      "top_losers": [
+        "Ploceus capensis",
+        "Cursorius temminckii",
+        "Asio capensis",
+        "Apalis ruddi",
+        "Motacilla flava"
+      ],
+      "gcm": "IPSL-CM6A-LR",
+      "ssp_key": "ssp245_2050",
+      "source": "single_gcm"
+    },
+    {
+      "label": "IPSL-CM6A-LR SSP5-8.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 755.0,
+      "richness_delta": -0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.0756,
+      "n_gaining": 63,
+      "n_losing": 215,
+      "n_stable": 477,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Dendropicos fuscescens",
+        "Egretta vinaceigula",
+        "Ardea alba",
+        "Tauraco corythaix"
+      ],
+      "top_losers": [
+        "Asio capensis",
+        "Ploceus capensis",
+        "Cursorius temminckii",
+        "Apalis ruddi",
+        "Motacilla flava"
+      ],
+      "gcm": "IPSL-CM6A-LR",
+      "ssp_key": "ssp585_2050",
+      "source": "single_gcm"
+    },
+    {
+      "label": "MIROC6 SSP2-4.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 755.0,
+      "richness_delta": 0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.07628,
+      "n_gaining": 34,
+      "n_losing": 145,
+      "n_stable": 576,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Egretta vinaceigula",
+        "Dendropicos fuscescens",
+        "Cecropis abyssinica",
+        "Cinnyris bifasciatus"
+      ],
+      "top_losers": [
+        "Apalis ruddi",
+        "Ploceus capensis",
+        "Cursorius temminckii",
+        "Asio capensis",
+        "Passer motitensis"
+      ],
+      "gcm": "MIROC6",
+      "ssp_key": "ssp245_2050",
+      "source": "single_gcm"
+    },
+    {
+      "label": "MIROC6 SSP5-8.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 755.0,
+      "richness_delta": 0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.0756,
+      "n_gaining": 36,
+      "n_losing": 187,
+      "n_stable": 532,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Egretta vinaceigula",
+        "Dendropicos fuscescens",
+        "Cecropis abyssinica",
+        "Anthus vaalensis"
+      ],
+      "top_losers": [
+        "Asio capensis",
+        "Apalis ruddi",
+        "Cursorius temminckii",
+        "Ploceus capensis",
+        "Passer motitensis"
+      ],
+      "gcm": "MIROC6",
+      "ssp_key": "ssp585_2050",
+      "source": "single_gcm"
+    },
+    {
+      "label": "UKESM1-0-LL SSP2-4.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 755.0,
+      "richness_delta": 0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.07663,
+      "n_gaining": 80,
+      "n_losing": 174,
+      "n_stable": 501,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Dendropicos fuscescens",
+        "Ardea alba",
+        "Tauraco corythaix",
+        "Leptoptilos crumenifer"
+      ],
+      "top_losers": [
+        "Ploceus capensis",
+        "Cursorius temminckii",
+        "Asio capensis",
+        "Apalis ruddi",
+        "Geokichla gurneyi"
+      ],
+      "gcm": "UKESM1-0-LL",
+      "ssp_key": "ssp245_2050",
+      "source": "single_gcm"
+    },
+    {
+      "label": "UKESM1-0-LL SSP5-8.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 754.9,
+      "richness_delta": -0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.07561,
+      "n_gaining": 86,
+      "n_losing": 220,
+      "n_stable": 449,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Dendropicos fuscescens",
+        "Ardea alba",
+        "Tauraco corythaix",
+        "Leptoptilos crumenifer"
+      ],
+      "top_losers": [
+        "Ploceus capensis",
+        "Asio capensis",
+        "Cursorius temminckii",
+        "Apalis ruddi",
+        "Geokichla gurneyi"
+      ],
+      "gcm": "UKESM1-0-LL",
+      "ssp_key": "ssp585_2050",
+      "source": "single_gcm"
+    }
+  ],
+  "ensemble": [
+    {
+      "label": "Ensemble SSP2-4.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 755.0,
+      "richness_delta": 0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.0766,
+      "n_gaining": 58,
+      "n_losing": 160,
+      "n_stable": 537,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Dendropicos fuscescens",
+        "Ardea alba",
+        "Tauraco corythaix",
+        "Leptoptilos crumenifer"
+      ],
+      "top_losers": [
+        "Ploceus capensis",
+        "Asio capensis",
+        "Cursorius temminckii",
+        "Apalis ruddi",
+        "Motacilla flava"
+      ],
+      "gcm": "ensemble",
+      "ssp_key": "ssp245_2050",
+      "source": "ensemble"
+    },
+    {
+      "label": "Ensemble SSP5-8.5 (2050)",
+      "richness_current": 755.0,
+      "richness_future": 755.0,
+      "richness_delta": 0.0,
+      "mean_rate_current": 0.07876,
+      "mean_rate_future": 0.07585,
+      "n_gaining": 68,
+      "n_losing": 197,
+      "n_stable": 490,
+      "top_gainers": [
+        "Acrocephalus palustris",
+        "Dendropicos fuscescens",
+        "Ardea alba",
+        "Tauraco corythaix",
+        "Leptoptilos crumenifer"
+      ],
+      "top_losers": [
+        "Ploceus capensis",
+        "Asio capensis",
+        "Cursorius temminckii",
+        "Apalis ruddi",
+        "Motacilla flava"
+      ],
+      "gcm": "ensemble",
+      "ssp_key": "ssp585_2050",
+      "source": "ensemble"
+    }
+  ]
+}
